@@ -1,0 +1,2 @@
+<fsq:fsqHandleCallback status="${status}" />
+
