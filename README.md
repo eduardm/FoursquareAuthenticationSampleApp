@@ -9,6 +9,8 @@ WARNING: As of today this plugin does not exist yet in the official repository. 
 
 This application is a simple implementation of the [FoursquareAuthentication Grails Plugin](https://github.com/eduardm/fsq).
 
+
 # Installation
 
 Download, install plugin, run server on port 8080. Browse http:localhost:8080.
+
